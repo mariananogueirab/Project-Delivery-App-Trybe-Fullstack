@@ -1,4 +1,4 @@
-### Project Delivery App - Trybe
+# Project Delivery App - Trybe
 
 Projeto em grupo para testar os conhecimentos em backend e frontend.
 
